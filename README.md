@@ -1,6 +1,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthony-stabile-911409ba/)
-![](https://img.shields.io/badge/Discord-Adoroam%238739-blue)
+![](https://img.shields.io/badge/Discord-@adoroam-blue)
 ![](https://visitor-badge.glitch.me/badge?page_id=adoroam.adoroam)
 
 ## Howdy! I'm Anthony 🛠️
